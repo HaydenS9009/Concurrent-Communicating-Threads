@@ -1,0 +1,15 @@
+159.355 Assignment 3
+Hayden Stimpson - 19032670	
+
+Files for each section:
+Permission based Ricart Agrawala algorithm:
+	PermissionBased.java
+	PmBuffer.java
+	Family.java
+Token passing Ricart Agrawala algorithm:
+	TokenPassing.java
+	TpBuffer.java
+	TokenFamily.java
+
+Run permission based through PermissionBased.java
+Run token passing through TokenPassing.java
